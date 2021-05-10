@@ -17,11 +17,11 @@ This is much like the `change` or `input` event handler in HTML.
 
 
 ## onSubmit listner in React
-THis is much like the `submit` event handler
+This is much like the `submit` event handler
 
 
 ## Guided Project
 
 1. simple form.
 2. show how to create a controlled component and what that means
-3. 
+3. measure understanding of uncontrolled vs controlled components 
