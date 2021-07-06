@@ -11,6 +11,8 @@ _Q_: Can anyone tell me what is routing from doing the warmup?
 
 _Q_: Why do we need routing?
 
+When a web app starts to grow, you will likely have to start maintaining the different views and how you navigate between them. This is where the routing will come in handy.
+
 
 ### SSR vs CSR
 Let's talk about server side routing vs client side routing.
